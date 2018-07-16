@@ -1,0 +1,1 @@
+A completion of the Spring ["Building Java Projects with Gradle" tutorial] (https://spring.io/guides/gs/gradle/#scratch)
